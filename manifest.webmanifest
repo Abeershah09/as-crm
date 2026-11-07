@@ -1,1 +1,30 @@
-{"id":"./","name":"AS CRM Free — Agency Management","short_name":"AS CRM","description":"Private local client, social media and finance management","start_url":"./index.html","scope":"./","display":"standalone","background_color":"#f8f9fb","theme_color":"#172444","icons":[{"src":"./app-icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},{"src":"./app-icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}]}
+{
+  "id": "/as-crm/",
+  "name": "AS CRM — Agency Management",
+  "short_name": "AS CRM",
+  "description": "AS Tech Agency CRM for clients, projects, proposals, invoices, payments and expenses, with Supabase cloud sync.",
+  "start_url": "/as-crm/",
+  "scope": "/as-crm/",
+  "display": "standalone",
+  "display_override": [
+    "standalone"
+  ],
+  "orientation": "any",
+  "background_color": "#f8f9fb",
+  "theme_color": "#172444",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "./app-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./app-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
